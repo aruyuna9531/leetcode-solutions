@@ -11,4 +11,4 @@ Weekly Contest 记录
 
 第97回（8月12日） 排名[951](https://leetcode.com/contest/weekly-contest-97/ranking/39/)/3760 AC 2题
 
-第98回（8月19日） 排名[684](https://leetcode-cn.com/contest/weekly-contest-98/ranking/28/)/3552 AC 3题
+第98回（8月19日） 排名[684](https://leetcode.com/contest/weekly-contest-98/ranking/28/)/3552 AC 3题
