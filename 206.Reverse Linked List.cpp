@@ -14,8 +14,6 @@
 
 每次操作，cur的next指向pre，然后三个指针分别移到其下一个节点。
 
-（目前Leetcode有疑似时间超限的bug，在return前面一行debug是有stdout的）
-
 */
 
 /**
