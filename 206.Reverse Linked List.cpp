@@ -31,7 +31,7 @@ public:
     ListNode* reverseList(ListNode* head) {
         if(head==NULL)return NULL;
         if(head->next==NULL)return head;
-        ListNode *pre = head, *cur = head, *nxt = head->next;
+        ListNode *pre = NULL, *cur = head, *nxt = head->next;
         while(nxt!=NULL){
             cur->next = pre;
             pre = cur;
